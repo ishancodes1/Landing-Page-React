@@ -336,7 +336,7 @@ function App() {
     fontSize: "23px",
     fontWeight: "800"}}>
         <span>
-          Green<span>Haven</span>
+          Nature<span>Says</span>
         </span>
       </a>
       <p style={{maxWidth: "320px",
